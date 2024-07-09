@@ -7,7 +7,7 @@ const Header = ({ title }) => {
     )
 }
 
-Header.defaultProps = {
+Header.defaultParameters = {
     title:  "Groceries list"
 }
 
